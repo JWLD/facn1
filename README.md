@@ -121,3 +121,20 @@
 - [Group 1 - D-Reem Team](https://github.com/FACN1/week6-D-REEM-TEAM)
 - [Group 2 - FACNHosers](https://github.com/FACN1/week6-facn-hosers)
 - [Group 3 - Hiba's Angels](https://github.com/FACN1/week6-hibas-angels)
+
+## [Week 7 - Hapi 1](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/week-7)
+- [Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/learning-outcomes.md) & [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/resources.md)
+
+##### Workshops
+- [D1 - Hapi Intro Code-Along](https://github.com/msachi/hapi-intro)
+- [D1 - MakeMeHapi Workshop](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/makemehapi-guidelines.md)
+- [D1 - Handlebars Workshop](https://github.com/marisid/handlebars-intro-workshop) | [Solution](https://github.com/marisid/handlebars-intro-workshop/tree/completed-workshop)
+- [D2 - Handlebars Challenge](https://github.com/Jbarget/handlebars-morning-challenge) | [Solution](https://github.com/Jbarget/handlebars-morning-challenge/tree/solution)
+- [D2 - Testing Hapi Workshop](https://github.com/SavageWilliam/injector)
+- [D3 - Cookie Authentication Workshop](https://github.com/SavageWilliam/hapi-auth-cookie-ws) | [Solution](https://github.com/SavageWilliam/hapi-auth-cookie-ws/tree/solution-version)
+
+##### Research
+- [Topics](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/research-afternoon.md)
+
+##### Projects
+- [Spec - CMS Web App](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/project.md)
