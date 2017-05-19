@@ -122,12 +122,12 @@
 - [Group 2 - FACNHosers](https://github.com/FACN1/week6-facn-hosers)
 - [Group 3 - Hiba's Angels](https://github.com/FACN1/week6-hibas-angels)
 
-## [Week 7 - Hapi 1](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/week-7)
+## [Week 7 - Hapi 1: Views](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/week-7)
 - [Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/learning-outcomes.md) & [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/resources.md)
 
 ##### Workshops
 - [D1 - Hapi Intro Code-Along](https://github.com/msachi/hapi-intro)
-- [D1 - MakeMeHapi Workshop](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/makemehapi-guidelines.md)
+- [D1 - MakeMeHapi Workshop](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/makemehapi-guidelines.md) | [Solution](https://github.com/hapijs/makemehapi/tree/master/exercises)
 - [D1 - Handlebars Workshop](https://github.com/marisid/handlebars-intro-workshop) | [Solution](https://github.com/marisid/handlebars-intro-workshop/tree/completed-workshop)
 - [D2 - Handlebars Challenge](https://github.com/Jbarget/handlebars-morning-challenge) | [Solution](https://github.com/Jbarget/handlebars-morning-challenge/tree/solution)
 - [D2 - Testing Hapi Workshop](https://github.com/SavageWilliam/injector)
@@ -135,6 +135,29 @@
 
 ##### Research
 - [Topics](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/research-afternoon.md)
+- [READMEs](https://github.com/FACN1/research/tree/master/week-7)
 
 ##### Projects
 - [Spec - CMS Web App](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-7/project.md)
+- [Group 1 - ifitmakesuhapi](https://github.com/FACN1/week7-ifitmake-suHapi)
+- [Group 2 - rm-rf-mario](https://github.com/FACN1/week7-rm-rf-mario)
+- [Group 3 - SPNs](https://github.com/FACN1/week7-SPN)
+
+## [Week 8 - Hapi 2: Authentication](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-8/5-day-week/schedule.md)
+- [Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-8/learning-outcomes.md) & [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-8/resources.md)
+
+##### Workshops
+- [D1 - OAuth Workshop](https://github.com/foundersandcoders/oauth-workshop)
+- [D2 - JWT Workshop](https://github.com/foundersandcoders/jwt_workshop)
+
+##### Research
+- [READMEs](https://github.com/FACN1/research/tree/master/week-8)
+
+##### Projects
+- [Spec - Authentication](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-8/project.md)
+- [Group 1 - edjy](https://github.com/FACN1/week8-edjy)
+- [Group 2 - jiba-hack](https://github.com/FACN1/week8-jiba-hack)
+- [Group 3 - Lario](https://github.com/FACN1/Lario)
+- [Group 4 - MadLube](https://github.com/FACN1/MadLube)
+- [Group 5 - Reavis](https://github.com/FACN1/Reavis)
+- [Group 6 - sulias](https://github.com/FACN1/week8-sulias)
